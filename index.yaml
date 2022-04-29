@@ -3,9 +3,9 @@ entries:
   opentelemetry-collector:
   - apiVersion: v2
     appVersion: 0.49.0
-    created: "2022-04-29T07:49:32.215404013Z"
+    created: "2022-04-29T08:02:29.968994187Z"
     description: OpenTelemetry Collector Helm chart for Kubernetes
-    digest: 064a4af1d1fafb36f4ebe0a91e3f794359e9a4e56cb4d6ca6cb0b7050352f38e
+    digest: 0f15d13b3eb9297da6a87dde081d5a4df2d71afc269a832c70f067454f20852a
     home: https://opentelemetry.io/
     icon: https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png
     maintainers:
@@ -19,29 +19,6 @@ entries:
     - https://github.com/open-telemetry/opentelemetry-collector-contrib
     type: application
     urls:
-    - https://github.com/nickytd/opentelemetry-helm-charts/releases/download/opentelemetry-collector-0.15.0/opentelemetry-collector-0.15.0.tgz
-    version: 0.15.0
-  opentelemetry-operator:
-  - apiVersion: v2
-    appVersion: 0.46.0
-    created: "2022-04-29T07:49:32.327542018Z"
-    description: OpenTelemetry Operator Helm chart for Kubernetes
-    digest: c1d050504b98fd41499fe54072a928adc8887cfe1ee429fda10c4f98ea592566
-    home: https://opentelemetry.io/
-    icon: https://raw.githubusercontent.com/cncf/artwork/a718fa97fffec1b9fd14147682e9e3ac0c8817cb/projects/opentelemetry/icon/color/opentelemetry-icon-color.png
-    maintainers:
-    - name: bogdandrutu
-    - name: dmitryax
-    - name: pjanotti
-    - name: tigrannajaryan
-    - name: jpkrohling
-    - name: alolita
-    - name: Aneurysm9
-    name: opentelemetry-operator
-    sources:
-    - https://github.com/open-telemetry/opentelemetry-operator
-    type: application
-    urls:
-    - https://github.com/nickytd/opentelemetry-helm-charts/releases/download/opentelemetry-operator-0.6.8/opentelemetry-operator-0.6.8.tgz
-    version: 0.6.8
-generated: "2022-04-29T07:49:32.327582019Z"
+    - https://github.com/nickytd/opentelemetry-helm-charts/releases/download/opentelemetry-collector-0.15.1/opentelemetry-collector-0.15.1.tgz
+    version: 0.15.1
+generated: "2022-04-29T08:02:29.968999588Z"
